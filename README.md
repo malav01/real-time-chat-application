@@ -1,7 +1,5 @@
 # Real-Time Chat Application
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 > A real-time chat application built with React, Firebase, and other technologies.
 
 The real-time chat application allows users to engage in private conversations, provides a beautiful user interface, tracks the last sent message, offers user search functionality, and automatically updates the user list.
@@ -50,11 +48,12 @@ git clone https://github.com/your-username/real-time-chat-application.git
 2. Navigate to the project directory:
 ```bash
 cd real-time-chat-application
+```
 
 3. Install dependencies:
 ```bash
 npm install
-
+```
 4. Configure Firebase:
 - Create a Firebase project at https://console.firebase.google.com.
 - Enable the necessary services, such as the real-time database and authentication.
@@ -63,3 +62,5 @@ npm install
 5. Start the development server:
 ```bash
 npm start
+```
+6. Open your web browser and access the application at http://localhost:3000.
