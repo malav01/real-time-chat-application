@@ -7,10 +7,10 @@ The real-time chat application allows users to engage in private conversations, 
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Contact](#contact)
 
 ## Features
 
@@ -21,9 +21,6 @@ The real-time chat application allows users to engage in private conversations, 
 - User search
 - Automatic updating of the user list
 
-## Demo
-
-[View Demo](https://your-demo-url.com)
 
 ## Technologies
 
@@ -64,3 +61,6 @@ npm install
 npm start
 ```
 6. Open your web browser and access the application at http://localhost:3000.
+
+## Contact
+For any questions or inquiries, please contact us at [malavg2001@gmail.com]
