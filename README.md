@@ -29,9 +29,9 @@ The following technologies were used in the development of this application:
 - React
 - Firebase
 - HTML5
-- CSS3
+- SCSS
 - JavaScript
-- NPM
+
 
 ## Getting Started
 
