@@ -8,8 +8,8 @@ The real-time chat application allows users to engage in private conversations, 
 
 - [Features](#features)
 - [Technologies](#technologies)
+- [Demo](#demo)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contact](#contact)
 
 ## Features
@@ -31,6 +31,10 @@ The following technologies were used in the development of this application:
 - HTML5
 - SCSS
 - JavaScript
+
+## Demo
+
+https://www.youtube.com/watch?v=tvShh9aGgag
 
 
 ## Getting Started
